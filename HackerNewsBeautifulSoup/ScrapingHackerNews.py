@@ -16,9 +16,6 @@ for article_tag in articles:
     article_texts.append(text)
     article_links.append(link)
 
-print(article_texts)
-print(article_links)
-
 article_upvotes = []
 votes = soup.find_all(name = "span", class_ = "score")
 for article_score in votes:
@@ -33,6 +30,5 @@ for article_score in votes:
 
 highest_vote = max(article_upvotes)
 index_of_highest_vote = article_upvotes.index(highest_vote)
-print(index_of_highest_vote)
 
 print(f" The article with the highest votes is '{article_texts[index_of_highest_vote]}', available at {article_links[index_of_highest_vote]}")
