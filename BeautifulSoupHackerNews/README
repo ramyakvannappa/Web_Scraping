@@ -3,3 +3,5 @@ In this project, data is scraped from a live website https://news.ycombinator.co
 The ycombinator website holds a link to tech related news piece or to display anything built by a user.
 
 The main Hackernews page displays the title, link etc of the top 30 articles. But the highest upvoted item is not displayed. So, instead of manually checking the website for the most upvoted article, we pick the said item up using code!
+
+The end product: displaying the title, most upvoted item in the main page
