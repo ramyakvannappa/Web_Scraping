@@ -2,4 +2,4 @@ Web scraping provides a solution for those who want to get access to structured 
 I have used BeautifulSoup Python package and Selenuium to scrape data in different projects found in this Web_Scraping folder
 
 
-Source: https://www.zyte.com/learn/what-is-web-scraping/
+Reference: https://www.zyte.com/learn/what-is-web-scraping/
