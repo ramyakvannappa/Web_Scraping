@@ -1,2 +1,2 @@
-Perfomed Web-Scraping of 100 must watch movies of all times from https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/
+Used BeautifulSoup and performed Web-Scraping of 100 must watch movies of all times from https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/ 
 The retrieved movie list is later written into movies.txt file
